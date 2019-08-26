@@ -6,6 +6,7 @@ I'm following this GitHub Guide, here - https://guides.github.com/activities/hel
 However, my first test with Netlify was to use their fast-n-easy "drag your project folder here" thingy.
 
 I'm Doug Vos, and you'll find me on many of the social's as @dougvos or sometimes @douglasvos
+
 Back in the 1990's and early 2000's I learned a few things about HTML and CSS from Zeldman, 
 and was one of the instigators of 'Blue Beanie Day' - to promote HTML/CSS 'Web Standards'.
 
